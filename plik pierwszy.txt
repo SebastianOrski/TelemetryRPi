@@ -1,0 +1,2 @@
+Kod pliku pierwszego.
+c = a + b;
